@@ -1,6 +1,10 @@
 # speedtestcli script
 Currently only supports powershell
 
+# Support
+Please support this project by using the following referral link to sign up for your Twilio account:
+www.twilio.com/referral/PfAhMS
+
 # Getting Started
 
 ## 1. Install speedtestcli
